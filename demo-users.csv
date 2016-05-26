@@ -1,0 +1,7 @@
+GivenNAme,Surname,Name,SamAccountNAme,Description,Department,Path,Enabled,Password,PasswordNeverExpires
+Miles,Davis,MilesDavis,davis,MilesDavis,IT,"OU=Users,OU=Demo,DC=TIESRAD2,DC=NET",$TRUE,P@ssw0rd,$TRUE
+John,Coltrane,JohnColtrane,coltrane,JohnColtrane,IT,"OU=Users,OU=Demo,DC=TIESRAD2,DC=NET",$TRUE,P@ssw0rd,$TRUE
+Charlie,Parker,CharlieParker,parker,CharlieParker,IT,"OU=Users,OU=Demo,DC=TIESRAD2,DC=NET",$TRUE,P@ssw0rd,$TRUE
+Count,Basie,CountBasie,basie,CountBasie,IT,"OU=Users,OU=Demo,DC=TIESRAD2,DC=NET",$TRUE,P@ssw0rd,$TRUE
+Woody,Shaw,WoodieShaw,shaw,WoodyShaw,IT,"OU=Users,OU=Demo,DC=TIESRAD2,DC=NET",$TRUE,P@ssw0rd,$TRUE
+Charles,Mingus,CharlesMingus,mingus,CharlesMingus,IT,"OU=Users,OU=Demo,DC=TIESRAD2,DC=NET",$TRUE,P@ssw0rd,$TRUE
